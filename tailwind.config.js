@@ -10,6 +10,7 @@ export default {
         serif: ['Georgia', 'Cambria', 'Times New Roman', 'Times', 'serif'],
       },
     },
+    extend: {},
   },
   plugins: [],
 }
